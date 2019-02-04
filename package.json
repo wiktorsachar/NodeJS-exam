@@ -1,0 +1,16 @@
+{
+  "name": "node_wiktor_sacharczuk_exam",
+  "version": "1.0.0",
+  "description": "Politechnika Bialostocka - JAVASCRIPT DEVELOPER 2018/2019 node.js exam app",
+  "main": "app.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "yargs": "^12.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wiktor Sacharczuk",
+  "license": "ISC"
+}
